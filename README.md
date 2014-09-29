@@ -1,0 +1,2 @@
+docker-insight_mazacoin
+=======================
