@@ -46,7 +46,7 @@ make && make install && make clean && make distclean
 # Clean up
 #apt-get remove -y wget
 cd /
-git clone https://github.com/guruvan/mazachain
+git clone https://github.com/ShastaFarEye/mazachain
 cd mazachain 
 git checkout mazachain
 npm install
